@@ -1,4 +1,9 @@
+# prj specific
 model/simulation*
+synthesis/AdhesionDriven*.xml
+synthesis/MorpheusSetup.py
+synthesis/README_model.md
+synthesis/simulations/
 
 ## generic files to ignore
 *~
@@ -26,3 +31,4 @@ PKG-INFO
 *.tmp*
 .coverage
 .pytest_cache
+.ipynb_checkpoints/
